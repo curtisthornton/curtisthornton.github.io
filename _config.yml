@@ -5,9 +5,9 @@ gems:
   - jemoji
   
 # Site settings
-title: "Curtis Thornton // Graphic Designer"
+title: "Curtis Thornton"
 description: > # this means to ignore newlines until "email:"
-   Just a graphic designer from Dallas, Texas.
+   Graphic Designer from Dallas, Texas.
 
 email: curtis.thronton3@gmail.com
 #blog logo
