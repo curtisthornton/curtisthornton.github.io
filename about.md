@@ -4,14 +4,8 @@ title: About
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+Born and raised in Bartlesville, Oklahoma, Curtis is the son of a Pharmacist and Insurance Salesman.
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+In 2006 he graduated from Caney Valley High School in Ramona, Oklahoma. He was a class of 56 other students.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+In 2012 he graduated with a Commercial Graphics degree from Pittsburg State University. Since then, he's moved to Dallas, Texas, for bigger and better opportunities.
