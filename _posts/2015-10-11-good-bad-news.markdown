@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "test post with red header"
-image: /
-color: 810000
+image: ""
+color: FFDE00
 ---
 It was at this moment that as Miek stared past the his small bundle of flickering fire that he was not alone.
 
