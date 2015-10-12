@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Test Post"
-image: ""
+image: /assets/article_images/test.jpg
 ---
 It was at this moment that as Miek stared past the his small bundle of flickering fire that he was not alone.
 
