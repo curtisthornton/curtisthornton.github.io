@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "test post with red header"
-color: red
+image: /
+color: #FF8400
 ---
 
 The good news is, we now have a dependable CMS to push changelogs to! And it's hosted by Github, so it's not going to fall off the face of the earth like scriptogram did.
