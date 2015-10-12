@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: draft
 title:  "The Good News and The Bad News"
 tags: 
 ---
