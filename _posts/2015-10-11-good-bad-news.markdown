@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "test post with red header"
-image: /
+image: #
 color: 810000
 ---
 
