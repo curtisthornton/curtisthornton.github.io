@@ -16,8 +16,6 @@ The site feels cold and unwelcoming from its stiff use of tables and default typ
 
 It's also confused that some images are repeated and some of the text is hard to read because they are inside images. The big "Like Us on Facebook" reminds the user that this is a very web 1.0 website.
 
----
-
 # Coding
 
 There's a lot of cruff that isn't needed. Tons of empty DIVs, and for some reason a TON of empty \<font\> tags. I can also see many instances of inline CSS. I suspect this was used by a pagebuilder since inline CSS is HIGHLY discouraged.
