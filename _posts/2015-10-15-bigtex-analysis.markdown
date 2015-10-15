@@ -3,8 +3,8 @@ layout: post
 title:  "Big Texas Containers Analysis"
 image: /assets/article_images/test.jpg
 ---
-##### This is an official analysis of [bigtexascontainers.com](http://www.bigtexascontainers.com) and any branding associated with the parent company.
----
+This is an official analysis of [bigtexascontainers.com](http://www.bigtexascontainers.com) and any branding associated with the parent company.
+
 # Initial Inspection
 Upon first loading the site, we are presented with a big of a mess.There is a lot of content that seems important, but nothing stands out against everything else, making it more of a wall of text than anything worthwhile (although I'm sure it is).
 
