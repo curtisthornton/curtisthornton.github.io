@@ -17,7 +17,7 @@ The site feels cold and unwelcoming from its stiff use of tables and default typ
 It's also confused that some images are repeated and some of the text is hard to read because they are inside images. The big "Like Us on Facebook" reminds the user that this is a very web 1.0 website.
 
 So let's take a look at the code...
-<pre>
+````
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -340,6 +340,6 @@ Outer mounted (pictured above)<br />
    
 </body>
 </html>
-</pre>
+````
 
 There's a lot of cruff that isn't needed. Tons of empty DIVs, and for some reason a TON of empty \<font\> tags.
