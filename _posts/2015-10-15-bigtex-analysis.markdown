@@ -342,4 +342,4 @@ Outer mounted (pictured above)<br />
 </html>
 ````
 
-There's a lot of cruff that isn't needed. Tons of empty DIVs, and for some reason a TON of empty \<font\> tags.
+There's a lot of cruff that isn't needed. Tons of empty DIVs, and for some reason a TON of empty \<font\> tags. I can also see many instances of inline CSS. I suspect this was used by a pagebuilder since inline CSS is HIGHLY discouraged.
