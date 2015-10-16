@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Big Texas Containers Analysis"
-image: /assets/article_images/bigtex-cover.jpg
+image: /
+color: 004080
 ---
 *This is an official analysis of [bigtexascontainers.com](http://www.bigtexascontainers.com) and any branding associated with the parent company.*
 
