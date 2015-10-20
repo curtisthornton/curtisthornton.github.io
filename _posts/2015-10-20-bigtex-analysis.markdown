@@ -47,12 +47,12 @@ Along with a new logo, I would suggest a complete branding guide to include thin
 
 Some examples of a new logo are below.
 
-![bigtexlogos](/assets/article_images/btc-logos.jpg "")
+![Examples of Big Texas Containers Logo](/assets/article_images/btc-logos.jpg)
 
 ### Website
 My recommended Wordpress-based site would be [Space9](http://www.cssigniter.com/preview/space9) from [cssigniter](http://www.cssigniter.com/ignite/).
 
-![space9](/assets/article_images/space9.png "")
+![Space9 Preview](/assets/article_images/space9.png)
 
 This theme offers some really solid design elements and can be adaoptable to almost any design changes. The theme is compatable with [WooCommerce](http://www.woothemes.com/woocommerce/), so you can list, sort, display, and update your inventory from the Wordpress dashboard.
 
