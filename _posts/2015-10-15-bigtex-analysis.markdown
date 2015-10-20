@@ -47,4 +47,4 @@ Along with a new logo, I would suggest a complete branding guide to include thin
 
 Some examples of a new logo are below.
 
-[!bigtexlogos]
+[!bigtexlogos](curtisthornton.github.io/assets/article_images/btc-logos.jpg)
