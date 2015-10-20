@@ -67,7 +67,7 @@ I will, however, offer my branding services that include (but are not limited to
 
 I will also work with any web designer and provide them with any media assets, as well as consultations and light assistance with coding on an as-needed basis.
 
-The price for my rebranding service is $1,800 as a flat rate, or $35/hour (whichever is cheapest).
+The price for my rebranding service is $1,800 as a flat rate, or $35/hour (whichever is lower).
 
 ---
 
