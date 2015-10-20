@@ -38,7 +38,7 @@ From what I can tell, Big Texas Containers has all the content to become a power
 
 To do this, the owner would need to switch from WYSIWYG website editors to a more manageable CMS dashboard. And, of course, the web designer's choice for this would be [Wordpress](https://wordpress.org).
 
-Transferring all the content from this site to a new CMS would involve some very extensive sorting and reclassification in order to have better SEO and organization to the site. This is not something that can be completed in a short time, and is something that would need to be done on an ongoing basis.
+Transferring all the content from this site to a new CMS would involve some very extensive sorting and reclassification in order to have better SEO and organization to the site. This is not something that can be completed in a short time, and is something that would need to be done as an ongoing basis.
 
 ### Branding
 Big Texas Containers would need to go through some extensive rebranding to reflect the company's new website, one that is both good for print and web, and can translate easily to social media.
