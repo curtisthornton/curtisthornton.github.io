@@ -18,7 +18,7 @@ The site feels cold and unwelcoming from its stiff use of tables and default typ
 It's also confusing that some images are repeated and some of the text is hard to read because they are inside images. The big "Like Us on Facebook" reminds the user that this is a very web 1.0 website.
 
 # Coding
-Okay, where to start.
+Okay, where to start...
 
 There is way too much coding going on the main page for what is being loaded, and that's mostly because it looks to be built by a WYSIWYG editor. There are a ton of empty \<div\> and \<font\> frames.
 
@@ -26,4 +26,25 @@ I am also seeing a lot of inline CSS, which is a *major* problem, since inline C
 
 Since everything was build using tables, the site is not mobile-friendly. Many elements are mis-aligned from this as well.
 
+As we go along the pages from the tab menu, things don't get much better.
 
+# Design
+From what I can tell, Big Texas Containers doesn't really have a logo. It has sort of a logotype with just the name, but nothing that indicates any branding outside of that.
+
+From a universal design aspect, there's nothing really holding the site contents together in any unified fashion, other than maybe the background color of the website. There are a few instances with some of the images being somewhat of the same design (image on the left, bulleted text on the right), but like I mentioned earlier, this is not good coding, design, or SEO.
+
+# Conclusion
+From what I can tell, Big Texas Containers has all the content to become a powerhouse of container-related retail. If there's one thing that many business websites don't have is content, and there's certainly enough here to go through.
+
+To do this, the owner would need to switch from WYSIWYG website editors to a more manageable CMS dashboard. And, of course, the web designer's choice for this would be [Wordpress](https://wordpress.org).
+
+Transferring all the content from this site to a new CMS would involve some very extensive sorting and reclassification in order to have better SEO and organization to the site. This is not something that can be completed in a short time, and is something that would need to be done on an ongoing basis.
+
+### Branding
+Big Texas Containers would need to go through some extensive rebranding to reflect the company's new website, one that is both good for print and web, and can translate easily to social media.
+
+Along with a new logo, I would suggest a complete branding guide to include things like preferred colors and other design standards.
+
+Some examples of a new logo are below.
+
+[!bigtexlogos]
