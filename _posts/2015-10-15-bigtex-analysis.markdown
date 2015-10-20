@@ -55,3 +55,18 @@ My recommended Wordpress-based site would be [Space9](http://www.cssigniter.com/
 ![space9](/assets/article_images/space9.png "")
 
 This theme offers some really solid design elements and can be adaoptable to almost any design changes. The theme is compatable with [WooCommerce](http://www.woothemes.com/woocommerce/), so you can list, sort, display, and update your inventory from the Wordpress dashboard.
+
+# Proposal
+Unfortunately, this isn't something I will be able to do as an ongoing basis, especially since my workload is already pretty heavy with a full-time job. Many of my clients are small, one-time setups with minimal upkeep, and are usually done on a freelance basis.
+
+The type of website the owner is looking to seek for this scale would require a dedicated webmaster.
+
+I will, however, offer my branding services that include (but are not limited to): logo design, branding guidelines, media kit, and intangeable files for print or web.
+
+I will also work with any web designer and provide them with any media assets, as well as consultations and light assistance with coding on an as-needed basis.
+
+The price for my rebranding service is $1,800 as a flat rate, or $35/hour (whichever is cheapest).
+
+---
+
+Please contact me directly for any questions or concerns regarding the project scope or if I need to expand or clarify anything within this analysis.
