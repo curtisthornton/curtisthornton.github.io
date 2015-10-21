@@ -22,7 +22,7 @@ Okay, where to start...
 
 There is way too much coding going on the main page for what is being loaded, and that's mostly because it looks like it was built by a WYSIWYG editor. There are a ton of empty \<div\> and \<font\> frames.
 
-I am also seeing a lot of inline CSS, which is a *major* problem, since inline CSS should only be used as a last resort and as a temporary solution to a styling problem. I have no doubt that whatever program was used to build this site injected them.
+I am also seeing a lot of inline CSS (Cascading Style Sheet used for element attributes), which is a *major* problem, since inline CSS should only be used as a last resort and as a temporary solution to a styling problem. I have no doubt that whatever program was used to build this site injected them.
 
 Since everything was build using tables, the site is not mobile-friendly. Many elements are mis-aligned from this as well.
 
