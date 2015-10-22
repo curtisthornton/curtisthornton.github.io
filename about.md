@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Curtis <span style="color:#999;">Jones</span> Thornton
 permalink: /about/
 ---
 
