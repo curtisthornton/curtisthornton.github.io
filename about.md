@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curtis <span style="color:#999;">Jones</span> Thornton
+title: Curtis Lee Jones-Thornton
 permalink: /about/
 ---
 
