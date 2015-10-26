@@ -2,6 +2,8 @@
 layout: page
 title: Curtis Lee Jones-Thornton
 permalink: /about/
+image: /
+color: red
 ---
 
 Born and raised in Bartlesville, Oklahoma, Curtis is the son of a Pharmacist and Insurance Salesman.
