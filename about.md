@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Curtis Lee Jones-Thornton
+image: /assets/images/about.jpg
 permalink: /about/
 ---
 
