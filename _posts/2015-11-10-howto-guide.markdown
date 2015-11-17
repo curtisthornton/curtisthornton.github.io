@@ -1,6 +1,5 @@
 ---
-title: How-To Guide
-published: false
+title: Gold Exchange How-To Guide
 ---
 
 This is a general guide to refer to when making any changes to the website, adding, deleting, or modifying WooCommerce Products.
