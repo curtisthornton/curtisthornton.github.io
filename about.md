@@ -1,22 +1,20 @@
 ---
 layout: page
-title: Curtis Lee Jones-Thornton
-image: /assets/images/about.jpg
+title: About
 permalink: /about/
 ---
 
-Born and raised in Bartlesville, Oklahoma, Curtis is the son of a Pharmacist and Insurance Salesman.
 
-In 2006 he graduated from Caney Valley High School in Ramona, Oklahoma. He was a class of 56 other students.
 
-In 2008 he moved to the great city of Pittsburg, Kansas, to work and study for his Graphic Design degree and Bachelors of Science & Technology. He graduated in the fall of 2012 with a minor in Printing and emphasis in Color Theory.
+## Set up instructions
 
-6 months after graduating, he finally admitted to himself that there wasn't any place for him in Kansas anymore. So, he decided to move to the closest major city for bigger and better opportunities. That city was Dallas, Texas.
+Fork this Jekyll-Grid on Github: [https://github.com/femmebot/jekyll-grid](https://github.com/femmebot/jekyll-grid)
 
-He packed everything he could into his Jeep Liberty and drove 7 hours straight to the only person he knew in Dallas, and stayed with him for 6 months while he looked for work.
+Part of the [25x52](http://25x52.com) initiative, this theme is based on [Jekyll Now](https://github.com/barryclark/jekyll-now). Refer to the following original instructions for help with the setup:
 
-On September 1, 2013, he met John. 3 months later, he moved in with John and his two dogs, Dozer and Baloo.
+> Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below :point_down:).
 
-On September 1, 2014, he got engaged.
+> ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-And on September 1, 2015, he got married.
+> The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+
