@@ -19,27 +19,27 @@ Since this is a process that cannot be completed using Automator, this was writt
 
 ## Code
 
-`tell application "Finder"
-	`set current_folder to folder of front window
-	`set x to (get the selection) as list
-	`repeat with i from 1 to the count of x
-		set this_file to item i of x
-		if i is not 1 then
-			set previous_file to item (i - 1) of x
-			set prev_ext to cur_ext
-			set prev_name to new_name
-		else
-			set prev_name to ""
-		end if
-		set cur_ext to name extension of this_file
-		set new_name to text 1 thru -((length of cur_ext) + 2) of (name of this_file as text)
-		if new_name is not equal to prev_name then
-			set new_folder to make new folder with properties {name:new_name} at current_folder
-			move this_file to new_folder
-		else
-			move this_file to new_folder
-		end if
-	end repeat
-end tell
+	tell application "Finder"
+		set current_folder to folder of front window
+		set x to (get the selection) as list
+		repeat with i from 1 to the count of x
+			set this_file to item i of x
+			if i is not 1 then
+				set previous_file to item (i - 1) of x
+				set prev_ext to cur_ext
+				set prev_name to new_name
+			else
+				set prev_name to ""
+			end if
+			set cur_ext to name extension of this_file
+			set new_name to text 1 thru -((length of cur_ext) + 2) of (name of this_file as text)
+			if new_name is not equal to prev_name then
+				set new_folder to make new folder with properties {name:new_name} at current_folder
+				move this_file to new_folder
+			else
+				move this_file to new_folder
+			end if
+		end repeat
+	end tell
 
 ## [Download](https://www.dropbox.com/s/a9znjicpk96ws8z/new%20folder%20with%20filename.app.zip?dl=1)
