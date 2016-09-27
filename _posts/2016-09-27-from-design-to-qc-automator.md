@@ -15,4 +15,4 @@ The purpose of this Automator app is to take the currently selected files and fo
 
 Currently, the action only copies files and folders instead of moving them altogether, meaning you have to deleted the original copies once the action is complete. I can see this as an unecessary step in the process, but it also acts as a safeguard in case you accidentally ran this action on the wrong files.
 
-[## Download](/app/new design to qc folder.app)
+## [Download](/app/new design to qc folder.app)
