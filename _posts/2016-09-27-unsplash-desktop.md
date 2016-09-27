@@ -12,7 +12,7 @@ proj-url: >-
 ---
 ## Purpose
 
-The purpose of this app is to change your desktop background to a random high-quality photo from Unsplash using [Unsplash Source](https://source.unsplash.com).
+The purpose of this app is to change your desktop background to a random high-quality photo from Unsplash using [Unsplash Source](https://source.unsplash.com). Application can be set to run at start-up to automatically set a new desktop image every time you start your computer.
 
 ## Known Issues
 
