@@ -4,7 +4,7 @@ layout: post
 desc: >-
   A quick Automator action that takes the currently selected files or folders
   and puts them in a new folder titled "from design to qc"
-title: from design to qc Automator script
+title: from design to qc Automator Action
 proj-num: 1
 proj-url: >-
   https://www.dropbox.com/s/x4265clbog8y037/new%20design%20to%20qc%20folder.app.zip?dl=1
