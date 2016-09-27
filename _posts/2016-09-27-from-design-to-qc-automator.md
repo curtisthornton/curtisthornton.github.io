@@ -6,6 +6,7 @@ desc: >-
   and puts them in a new folder titled "from design to qc"
 title: from design to qc Automator script
 proj-num: 1
+proj-url: /app/new design to qc folder.app
 ---
 ## Purpose
 
