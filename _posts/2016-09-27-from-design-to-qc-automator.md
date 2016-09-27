@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 desc: >-
   A quick Automator action that takes the currently selected files or folders
