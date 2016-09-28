@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: New Folder From Selected Filename Script
+title: New Folder From Selected Filename
 desc: >-
   An Applescript that takes the currently selected files and creates folders
   with the same name.
