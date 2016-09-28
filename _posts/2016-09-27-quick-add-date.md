@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: Quick Add Date to Filename App
+title: Quick Add Date to Filename
 desc: >-
   An Automator App that quickly adds the current date to the end of the selected
   filename.
