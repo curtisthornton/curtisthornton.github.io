@@ -5,6 +5,7 @@ desc: Quickly launch Monthly Incentives using Alfred
 proj-num: 5
 proj-url: >-
   https://www.dropbox.com/s/fzob3tosz01oa2v/Monthly%20Incentive%20Actions.alfredworkflow?dl=0
+layout: post
 ---
 ## Purpose
 
